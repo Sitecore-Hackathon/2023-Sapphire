@@ -30,55 +30,17 @@ document is located at https://github.com/Sitecore-Hackathon/2023-Sapphire/blob/
 Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. Just remember to update the link below
 
-Video Link
+Video Link: https://github.com/Sitecore-Hackathon/2023-Sapphire/blob/main/Sitecore%20Hackathon%202023%20-%20Sapphire.mp4
 
 Pre-requisites and Dependencies
-⟹ Does your module rely on other Sitecore modules or frameworks?
+⟹ Content Hub ONE XM CLOUD with the access to the URL https://content.sitecorecloud.io/
+
 
 List any dependencies
-Or other modules that must be installed
-Or services that must be enabled/configured
-Remove this subsection if your entry does not have any prerequisites other than Sitecore
+Install the NPM Packages in the document and also the Content Hub ONE CLI as mentioned in the doc.
 
 Installation instructions
-⟹ Write a short clear step-wise instruction on how to install your module.
-
-A simple well-described installation process is required to win the Hackathon.
-Feel free to use any of the following tools/formats as part of the installation:
-
-Sitecore Package files
-Docker image builds
-Sitecore CLI
-msbuild
-npm / yarn
-Do not use
-
-TDS
-Unicorn
-for example:
-
-Use the Sitecore Installation wizard to install the package
-...
-profit
-Configuration
-⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
-
-Remove this subsection if your entry does not require any configuration that is not fully covered in the installation instructions already
-
-Usage instructions
-⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
-
-Include screenshots where necessary. You can add images to the ./images folder and then link to them from your documentation:
-
-Hackathon Logo
-
-
-
-
-
-
-
-
+⟹ Follow the Document for detailed instructions.
 
 # Sapphire-content-hub-one-nextjs-component-library
 
