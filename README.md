@@ -23,12 +23,14 @@ These components can be used to develop a basic website and can be extended for 
 Module Purpose
 A Compoent Library for Content Hub ONE and NextJs in the XM Cloud.
 
+document is located at https://github.com/Sitecore-Hackathon/2023-Sapphire/blob/main/Sitecore%20Hackathon%202023-%20Sapphire%20Team.pdf
+
 
 
 Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. Just remember to update the link below
 
-⟹ Replace this Video link
+Video Link
 
 Pre-requisites and Dependencies
 ⟹ Does your module rely on other Sitecore modules or frameworks?
